@@ -36,8 +36,6 @@ Skills: C/C++/ JS / HTML / CSS
 
 
 
-# README
-# Vedurumudi Priyanka
 Computer Science Engineering Student
 <hr>
 
