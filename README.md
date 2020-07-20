@@ -1,7 +1,7 @@
 
 
 <!--
-**VedurumudiPriyanka/VedurumudiPriyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vedurumudi-Priyanka/Vedurumudi-Priyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
