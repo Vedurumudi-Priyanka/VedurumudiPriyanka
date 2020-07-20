@@ -35,7 +35,7 @@ Skills: C/C++/ JS / HTML / CSS
 
 
 
-### DEV.to
+### My DEV.to Profile
 <hr>
 
 ### 📝 Latest articles from [dev.to](https://dev.to/vedurumudipriyanka)
