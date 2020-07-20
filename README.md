@@ -35,8 +35,7 @@ Skills: C/C++/ JS / HTML / CSS
 
 
 
-
-Computer Science Engineering Student
+##DEV.to
 <hr>
 
 ### 📝 Latest articles from [dev.to](https://dev.to/vedurumudipriyanka)
